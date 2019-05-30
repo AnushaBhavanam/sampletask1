@@ -1,0 +1,26 @@
+.anu1{
+display: flex;
+justify-content: space-around;
+background: skyblue;
+}
+.anu{
+  flex: 50%;
+  padding: 5px;
+  text-align: center;
+}
+.sub1{
+margin: auto;
+width: 85%;
+background: blue;
+}
+.sub2{
+width: 85%;
+margin: auto;
+background: pink;
+}
+img{
+  width:100%;
+}
+@media screen and (min-width:320px) and (max-width:500px){
+  
+}
